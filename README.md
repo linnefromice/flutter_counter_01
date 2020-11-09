@@ -1,4 +1,4 @@
-# fluttercounter01
+# flutter_counter_01
 
 - use libraries
     - state_notifier
